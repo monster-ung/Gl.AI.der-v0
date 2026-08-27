@@ -20,4 +20,4 @@ Gl.AI.der is a modified version of the Dreamflight Alula Trek glider, that uses 
 - [ModusToolbox™ Quick start guide](https://www.infineon.com/assets/row/public/documents/30/68/infineon-modustoolbox-tools-package-quick-start-guide-gettingstarted-en.pdf)
 - [ModusToolbox™ Installation for VS Code](https://www.infineon.com/assets/row/public/documents/30/44/infineon-visual-studio-code-user-guide-usermanual-en.pdf)
 - [ModusToolbox™ Software installation guide](https://www.infineon.com/assets/row/public/documents/30/68/infineon-modustoolbox-software-installation-guide-gettingstarted-en.pdf)
-- [ModusToolbox™ PSOC Creator porting manual]([infineon-psoc-creator-porting-modustobox-usermanual](https://www.infineon.com/assets/row/public/documents/30/44/infineon-psoc-creator-porting-modustobox-usermanual-en.pdf?fileId=8ac78c8c919c9f9d01923664b5084775)
+- [ModusToolbox™ PSOC Creator porting manual](https://www.infineon.com/assets/row/public/documents/30/44/infineon-psoc-creator-porting-modustobox-usermanual-en.pdf?fileId=8ac78c8c919c9f9d01923664b5084775)
