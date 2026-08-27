@@ -1,6 +1,3 @@
-Read [](file:///c%3A/Users/ungethuem/Workspaces/get-radar-data/proj_cm33_ns/main.c#1-1), lines 1 to 120
-
-```cpp
 /*******************************************************************************
 * File Name        : main.ino
 *
@@ -308,4 +305,3 @@ void loop() {
             
       }
 }
-```
